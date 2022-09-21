@@ -1,4 +1,4 @@
-# Simple telegram bot template
+# Telegram bot for wg-easy
 
 🏃 Aiogram 
 
